@@ -41,10 +41,10 @@ Technical Troubleshooting · Systems Integration · Git · SDLC · Agile/Scrum
 ## Education
 
 **MSc Data Analytics**  
-CCT College Dublin
+CCT College Dublin | 2025
 
 **BSc (Hons) Information Technology**  
-CCT College Dublin
+CCT College Dublin | 2023
 
 **Technical Diploma in Industrial Informatics**  
 ETE “João Baptista de Lima e Figueiredo” — Mococa, SP, Brazil | 1996  
