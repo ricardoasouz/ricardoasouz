@@ -46,6 +46,10 @@ CCT College Dublin
 **BSc (Hons) Information Technology**  
 CCT College Dublin
 
+**Technical Diploma in Industrial Informatics**  
+ETE “João Baptista de Lima e Figueiredo” — Mococa, SP, Brazil | 1996  
+*Digital Electronics · Microprocessors (Intel 8080) · Logic Gates · Computer Architecture · Industrial Computing*
+
 ## Current Focus
 
 I am currently strengthening my expertise in cloud-native engineering, Kubernetes, AI systems and production-oriented machine learning while building practical engineering projects.
