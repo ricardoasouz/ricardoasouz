@@ -1,12 +1,12 @@
 # Ricardo Alves de Souza
 
-### Software & AI Engineer | ML Systems | Model Optimization | Cloud-Native Platforms | Open-Source Contributor
+### Software & AI Engineer | ML Systems | Model Optimization | Edge & Embedded AI | Industrial Informatics Technician | Open-Source Contributor
 
 📍 Dublin, Ireland
 
-I am a Software and AI Engineer with an **MSc in Data Analytics** and a **BSc (Hons) in Information Technology**, working across machine learning, model optimization, backend/platform engineering, cloud-native systems, and open-source software.
+I am a Software and AI Engineer with an **MSc in Data Analytics**, a **BSc (Hons) in Information Technology**, and an **Industrial Informatics Technician qualification**.
 
-My interest in technology started with an **8-bit MSX and cassette tape**, then grew through electronics, microprocessors, industrial informatics, technical support, software development, cloud systems, data engineering, and machine learning.
+My interest in technology started with an **8-bit MSX and cassette tape**, then grew through industrial informatics, electronics, digital logic, microprocessors, automation, technical support, software development, cloud systems, data engineering, and machine learning.
 
 Today, I am particularly interested in the point where **AI meets real engineering**: efficient inference, model optimization, edge and embedded AI, reproducible ML pipelines, distributed systems, observability, and production-oriented infrastructure.
 
@@ -220,11 +220,11 @@ I am especially interested in engineering problems involving:
 
 My journey into technology began long before AI became mainstream.
 
-I started experimenting with computers on an **8-bit MSX using cassette tape storage**, then studied electronics, digital logic, microprocessors, computer architecture, automation, and industrial informatics.
+I started experimenting with computers on an **8-bit MSX using cassette tape storage**. During my qualification as an **Industrial Informatics Technician**, I studied electronics, digital logic, microprocessors, computer architecture, industrial computing, and automation.
 
-That foundation led to years of technical troubleshooting and systems support, followed by formal studies in Information Technology and Data Analytics in Ireland.
+That foundation led to years of hands-on work with computers, systems troubleshooting, technical support, and software technologies, followed by formal higher education in Information Technology and Data Analytics in Ireland.
 
-Today I am combining that background with modern AI and software engineering, while contributing to open-source projects involving model optimization, inference runtimes, embedded AI, and low-level systems software.
+Today I am combining that background with modern AI and software engineering, contributing to open-source projects involving model optimization, inference runtimes, embedded AI, compilers, linkers, and low-level systems software.
 
 ---
 
@@ -256,13 +256,15 @@ Python · Java · Machine Learning · AI · Data Mining · SQL · NoSQL · Node.
 
 ---
 
-### Technical Diploma in Industrial Informatics
+### Industrial Informatics Technician
 
 **ETE João Baptista de Lima e Figueiredo**  
 Mococa, São Paulo, Brazil  
 1996
 
-Digital Electronics · Logic Gates · Microprocessors · Computer Architecture · Industrial Computing · Automation
+Technical training in:
+
+Digital Electronics · Digital Logic · Microprocessors · Computer Architecture · Industrial Computing · Automation
 
 ---
 
