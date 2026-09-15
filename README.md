@@ -128,11 +128,11 @@ Fixed mixed-width binary data decoding where channel-by-channel parsing could mi
 
 ### Languages
 
-Python · C++ · Java · JavaScript · Node.js · SQL · Bash
+Rust · C++ · Python · Node.js · Java
 
 ### AI, ML & Data
 
-PyTorch · OpenVINO · NNCF · scikit-learn · Apache Spark · pandas · NumPy · PyRadiomics · Deep Learning · Survival Analysis · Model Optimization · Quantization
+ExecuTorch · PyTorch · TensorFlow · OpenVINO · NNCF · scikit-learn · Apache Spark · pandas · NumPy · PyRadiomics · Deep Learning · Survival Analysis · Model Optimization · Quantization
 
 ### Backend & Distributed Systems
 
@@ -140,7 +140,7 @@ FastAPI · Flask · REST APIs · PostgreSQL · pgvector · Apache Kafka · SQL �
 
 ### Infrastructure
 
-Linux · Docker · Kubernetes · Helm · CI/CD · Cloud Architecture
+Linux · Docker · Kubernetes · Helm · Jenkins · GitHub Actions · CI/CD · Cloud Architecture
 
 ### Observability
 
@@ -148,11 +148,11 @@ OpenTelemetry · Prometheus · Grafana · Tempo · Distributed Tracing · Struct
 
 ### Cloud
 
-AWS · Google Cloud · Firebase
+AWS · Azure · Google Cloud · Firebase
 
 ### Engineering
 
-Debugging · Root-Cause Analysis · Systems Integration · Performance Analysis · Regression Testing · Reproducible Experimentation · Git · GitHub Actions
+Debugging · Root-Cause Analysis · Reverse Engineering · Systems Integration · Performance Analysis · Regression Testing · Reproducible Experimentation
 
 ---
 
