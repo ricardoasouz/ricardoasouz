@@ -14,9 +14,9 @@ Today, I am particularly interested in the point where **AI meets real engineeri
 
 ## Featured Engineering Work
 
-### Intel OpenVINO Model Optimization
+### OpenVINO Model Optimization
 
-A reproducible CPU inference study comparing **PyTorch FP32**, **OpenVINO FP32**, and **NNCF INT8 post-training quantization** using a pretrained ResNet18 model.
+An independent, reproducible CPU inference study comparing **PyTorch FP32**, **OpenVINO FP32**, and **NNCF INT8 post-training quantization** using a pretrained ResNet18 model.
 
 On the measured workload, INT8 reduced the OpenVINO model footprint by **3.94×** and produced a **7.46× mean-latency ratio improvement** versus OpenVINO FP32, while changing Imagenette Top-1 accuracy by only **-0.076 percentage points**.
 
@@ -36,7 +36,7 @@ The project includes:
 **Stack:**  
 Python · PyTorch · torchvision · OpenVINO · NNCF · NumPy · pandas · matplotlib · pytest
 
-→ [View project](https://github.com/ricardoasouz/intel-openvino-model-optimization)
+→ [View project](https://github.com/ricardoasouz/openvino-model-optimization)
 
 ---
 
